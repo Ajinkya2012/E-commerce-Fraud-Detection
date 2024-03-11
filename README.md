@@ -1,1 +1,3 @@
 # E-commerce-Fraud-Detection
+The dataset contains various features related to customer information and transaction details, and the goal is to use these features to predict whether a transaction is fraudulent or not. The challenge is to build a model that can achieve high accuracy while minimizing false positives and false negatives, as these can lead to significant financial losses for the platform and its customers.The problem statement for ecommerce fraud detection using the Kaggle dataset is to develop a machine learning model that can accurately identify fraudulent transactionon an e-commerce platform. 
+
